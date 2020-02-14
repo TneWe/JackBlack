@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Admin\source\repos\BlackDzek\Game.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\Admin\source\repos\BlackDzek\Source.cpp(4,7): warning C4930: 'Game game(void)': prototyped function not called (was a variable definition intended?)
+  Generating Code...
+  BlackDzek.vcxproj -> C:\Users\Admin\source\repos\BlackDzek\Debug\BlackDzek.exe
